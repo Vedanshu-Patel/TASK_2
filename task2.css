@@ -1,0 +1,134 @@
+.dabba1{
+    height: 60%;
+    width: 100%;
+    display: flex;
+}
+.dabba2{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    
+  
+}
+.dabba3{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin:0%;
+    padding:0%;
+}
+.dabba4{
+    width: 30%;
+    display: flex;
+    flex-direction:column;
+}
+.dabba41{
+    height: 50%;
+    display: flex;
+    width: 100%;
+   
+}
+.dabba42{
+    height: 50%;
+    display: flex;
+    width: 100%;
+}
+.dabba311{
+    width: 70%;
+    background-color: aqua;
+    display: flex;
+    
+}
+.dabba312{
+    width: 30%;
+    background-color:red;
+    position: relative;
+}
+.dabba321{
+    width: 50%;
+    background-color:#40e0d0;
+    display: flex;
+    height: 100%;
+}
+.dabba322{
+    width: 50%;
+    background-color: purple;
+    display: flex;
+    height: 100%;
+}
+.dabba41{
+    height: 50%;
+    background-color:orange;
+    display: flex;
+    
+}
+.dabba42{
+    height: 50%;
+    background-color:olive;
+    display: flex;
+}
+.dabba7{
+    width: 33%;
+    background-color: blue;
+}
+.dabba8{
+    width: 33%;
+    background-color: wheat;
+}
+.dabba9{
+    width: 34%;
+    background-color: pink;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.dabba{
+    height: 100%;
+    background-color:grey;
+}
+.dabba31{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 70%;
+    margin:0%;
+    padding:0%;
+
+}
+.dabba32{
+height: 30%;
+margin:0%;
+    padding:0%;
+    width: 100%;
+    display: flex;
+}
+div{
+    margin: 5px;
+}
+.d311{
+    padding-left: 50%;
+}
+
+.d41{
+   padding-left: 80%;
+   padding-top: 25%;
+}
+.d321{
+   padding-left: 10%;
+}
+.truth{
+    padding-left: 20%;
+    padding-right: 30%;
+    padding-top: 10%;
+}
+.xy{
+    
+    height:80px;
+    width: 80px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    
+}
